@@ -1,0 +1,28 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Build outputs
+Debug/
+Release/
+x64/
+x86/
+*.exe
+*.ilk
+*.pdb
+*.obj
+*.log
+*.tlog/
+*.recipe
+*.idb
+*.ipdb
+*.iobj
+*.ipch
+
+# Generated files
+*.FileListAbsolute.txt
+
+# Report docx (binary, changes often)
+report_working.docx

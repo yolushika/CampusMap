@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CampusMap/CampusMap.vcxproj" Id="6bc29f74-3450-4737-8d25-91e17e1a2bd8" />
+</Solution>
